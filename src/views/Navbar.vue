@@ -33,7 +33,7 @@
           Rekomendasi Mobil <br />
           Terpercaya
         </h1>
-        <p style="color: whitesmoke; font-size: 1rem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit id odit eaque laboriosam cupiditate repellat?</p>
+        <p style="color: whitesmoke; font-size: 1rem">Jika Anda ingin membeli mobil, belilah sesuai dengan kebutuhan anda dan belilah sesuai dengan kebutuhan anda:)</p>
         <router-link :to="{ name: 'views.fitur' }" class="btn btn-outline-dark fw-bold" style="color: orangered; padding: 10px; border: 2px solid; margin: 0px 50px">Lihat Rekomendasi</router-link>
       </div>
       <div class="col-md-6 mb-3">
@@ -58,7 +58,7 @@
           Rekomendasi Mobil <br />
           Terpercaya
         </h1>
-        <p style="color: whitesmoke; font-size: 1rem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit id odit eaque laboriosam cupiditate repellat?</p>
+        <p style="color: whitesmoke; font-size: 1rem">Jika Anda ingin membeli mobil, belilah sesuai dengan kebutuhan anda dan belilah sesuai dengan kebutuhan anda:)</p>
       </div>
     </div>
   </div>
@@ -72,7 +72,7 @@
           <div class="row">
             <div class="col-6">
               <div class="column left">
-                <p>Bila anda ingin mengetahui saya lebih lanjut bisa menghubungi kontak berikut ini. Saya sangat berterimasih bila kita bisa saling support.</p>
+                <p>Apabila ada yang ingin ditanyakan lebih mendalam terkait rekomendasi mobil bisa menghubungi kontak berikut ini. Saya sangat berterimasih bila kita bisa saling support.</p>
                 <div class="icons">
                   <div class="row">
                     <div class="info">
@@ -92,7 +92,7 @@
             <div class="col-6">
               <div class="column right">
                 <div class="text">Message me</div>
-                <form action="https://wa.me/qr/FN4PUJVHHMISE1">
+                <form action="#">
                   <div class="fields">
                     <div class="field name">
                       <input type="text" placeholder="Name" required="" />

@@ -1,12 +1,12 @@
 <template>
-  <div class="fitur" style="background-color: #222831; min-height: 100vh; padding-top: 100px; justify-content: center; align-items: center">
+  <div class="fitur" style="background-color: #222831; min-height: 100vh; padding-top: 150px; justify-content: center; align-items: center">
     <div class="container">
-      <div class="card" style="background-color: #222831; box-shadow: 1px 1px 20px 2px black; height: 70vh; width: 500px; margin-left: 360px">
+      <div class="card" style="background-color: #222831; box-shadow: 1px 1px 20px 2px black; height: 55vh; width: 500px; margin-left: 360px">
         <div class="card-header text-center" style="font-weight: 600; color: orangered; font-size: 30px; letter-spacing: 2px">Fitur</div>
         <div class="card-body">
           <div class="Container">
             <div class="input-group mb-3">
-              <input type="text" class="form-control" placeholder="Nama" aria-label="Name" aria-describedby="basic-addon1" style="box-shadow: 0px 0px 0px orangered; border: none" />
+              <input type="text" class="form-control" placeholder="Nama anda" aria-label="Name" aria-describedby="basic-addon1" style="box-shadow: 0px 0px 0px orangered; border: none" />
             </div>
             <div class="input-group mb-3">
               <input type="text" class="form-control" placeholder="Merek" aria-label="Merek" aria-describedby="basic-addon2" style="box-shadow: 0px 0px 0px orangered; border: none" />
@@ -34,7 +34,7 @@
               </div>
             </div>
             <div class="input-group mb-3">
-              <input type="text" class="form-control" placeholder="Tipe" aria-label="Tipe" aria-describedby="basic-addon2" />
+              <input type="text" class="form-control" placeholder="CC" aria-label="CC" aria-describedby="basic-addon2" />
             </div>
           </div>
           <div class="row">
